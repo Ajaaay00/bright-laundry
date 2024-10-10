@@ -1,6 +1,6 @@
 # Responsive Landing Page Laundry
 ## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
-### Demp template Responsive Landing Page Headphones 🎧
+### Demo template Responsive Landing Page Headphones 🎧
 
 - Beautiful Laundry landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
